@@ -28,7 +28,6 @@
 
 
 ## Features
-List the ready features here:
 - View page of all published articles.
 - View a single article in a blog and filter acccording to category.
 - Store user contacts.
